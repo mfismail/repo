@@ -19,15 +19,15 @@ After marrige you might want another car for your long drive. So, you start to w
 ![car-image](images/ultr.jpg)
 
  The columns in the given dataset are as follows:
- ```Car_Name:``` Name of Car sold
-　```Year:``` Year in which car was bought 
-　```Selling_Price:``` Price at which car sold
-　```Present_Price:``` Price of same car model in current year
-　```Kms_Driven:``` Number of Kilometers Car driven before it is sold 
-　```Fuel_Type:``` Type of fuel Car uses 
-　```Seller_Type:``` Type of seller 
-　```Transmission:``` Gear transmission of the car (Automatic / Manual)
- ```Owner:``` Number of previous owners 
+　`Car_Name:` Name of Car sold
+　`Year:` Year in which car was bought 
+　`Selling_Price:` Price at which car sold
+　`Present_Price:` Price of same car model in current year
+　`Kms_Driven:` Number of Kilometers Car driven before it is sold 
+　`Fuel_Type:` Type of fuel Car uses 
+　`Seller_Type:` Type of seller 
+　`Transmission:` Gear transmission of the car (Automatic / Manual)
+ `Owner:` Number of previous owners 
 
 
 ## Deployement on Heroku
